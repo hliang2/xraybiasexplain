@@ -2,7 +2,7 @@
 In this research project, we propose a new method based on GAN to visually explanin the bias issue in x-ray images. 
 
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/shorts/1wVuoa8Pkf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/shorts/1wVuoa8Pkf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- </div>
 
 Below, we use the [tipiX](https://github.com/adalca/tipiX) interactive visualization tool for some time lapses. The first row shows real time lapses created by artists, the second row shows videos synthesized by the <i>visual deprojection</i> baseline, and the third row shows videos synthesized by our method. To use the tipiX tool, click on the image to pause/start the autoplay feature, and move your mouse from left to right to move through each time lapse. 
