@@ -1,4 +1,4 @@
-## Xray Bias Explanation
+## Xray Bias Explaination
 In this research project, we propose a new method based on GAN to visually explain the bias issue in x-ray images. 
 
 <div align="center">
